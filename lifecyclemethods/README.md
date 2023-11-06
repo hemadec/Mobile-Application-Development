@@ -32,8 +32,8 @@ Program to print the text “Hello World”.
 Developed by:
 Registeration Number :
 */
-Developed by :Muralikrishnan k
-Registration Number : 212221040108
+Developed by :Hemanathan T
+Registration Number : 212221220019
 ```
 ```
 ## activity_main.xml :
